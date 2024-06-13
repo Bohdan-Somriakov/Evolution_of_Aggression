@@ -19,6 +19,8 @@ The [enum](https://docs.python.org/3/library/enum.html) module in Python provide
 ## Usage
 These libraries are employed in the project to create visual representations of data (Matplotlib), build a user-friendly interface (Tkinter), generate random data for simulations (random), and define fixed sets of values (Enum). Together, they enable the creation of a comprehensive application with a graphical interface, data visualization, and structured code.
 
+## Matplotlib installation
+
 # Input
 
 ## Food Pairs
@@ -50,6 +52,15 @@ The number of iterations during which creatures will meet and interact with one 
 
 # Results
 
+## Typical behaviour
+
+In habitats where Hawks are abundant, adopting a Dove strategy is advantageous. The prevalent Hawk-Hawk conflicts create opportunities for Doves to obtain food with minimal risk, resulting in a consistent gain of 0.5 food units per interaction.
+
+Conversely, in environments where Doves outnumber Hawks, transitioning to a Hawk strategy becomes beneficial. With reduced competition from Doves, Hawks can secure a more substantial 1.5 food units per encounter.
+
+<p align="center">
+  ![image](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example1/data.png)
+</p>
 
 # Credit
 Inspired by https://www.youtube.com/watch?v=YNMkADpvO4w
