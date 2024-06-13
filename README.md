@@ -48,6 +48,10 @@ The number of doves and hawks that will be present at the beginning of the simul
 ## Iterations to Run
 The number of iterations during which creatures will meet and interact with one another.
 
+# Results
+
+![test](images/example.png)
+
 # Credit
 Inspired by https://www.youtube.com/watch?v=YNMkADpvO4w
 
