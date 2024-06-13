@@ -341,10 +341,10 @@ New table:
 | Dove |  1  | 1/2  |
 | Hawk | 3/2  |  **1**  |
 
-Start with 1 Hawk
+Start with 1 Hawk.
 
 <p align="center">
-  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example109/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example10/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
 </p>
 
 <p align="center">
