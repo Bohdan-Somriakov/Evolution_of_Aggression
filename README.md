@@ -20,6 +20,13 @@ The [enum](https://docs.python.org/3/library/enum.html) module in Python provide
 These libraries are employed in the project to create visual representations of data (Matplotlib), build a user-friendly interface (Tkinter), generate random data for simulations (random), and define fixed sets of values (Enum). Together, they enable the creation of a comprehensive application with a graphical interface, data visualization, and structured code.
 
 ## Matplotlib installation
+Matplotlib releases are available as wheel packages for macOS, Windows and Linux on PyPI. Install it using pip:
+```
+python -m pip install -U pip
+python -m pip install -U matplotlib
+```
+
+If this command results in Matplotlib being compiled from source and there's trouble with the compilation, you can add ```--prefer-binary``` to select the newest version of Matplotlib for which there is a precompiled wheel for your OS and Python.
 
 # Input
 
