@@ -367,4 +367,41 @@ Start with 1 Hawk.
   <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example10/population_simulation_pies.png" alt="Image" style="display:block; margin:auto;"/>
 </p>
 
-Hawks shared food among themselves but engaged in fierce competition with Doves for the remaining food, ultimately leading to the Hawks eliminating all the Doves, despite starting with only 1 hawk.
+Hawks shared food among themselves but engaged in fierce competition with Doves for the remaining food, ultimately leading to the Hawks eliminating all the Doves, despite starting with only 1 Hawk.
+
+## 2 Hawks get at least something
+
+New table: 
+
+|       | Dove | Hawk |
+|-------|------|------|
+| Dove |  1  | 1/2  |
+| Hawk | 3/2  |  **1/2**  |
+
+Instead of wasting all their energy and dying, two Hawks would end up going home with 1/2 of the food each.
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example11/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example11/population_simulation_graph.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example11/population_simulation_plots.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example11/population_simulation_hist.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example11/population_simulation_pie.png" alt="Image" style="display:block; margin:auto; width:400px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example11/population_simulation_pies.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+Hawks grew significantly stronger.
