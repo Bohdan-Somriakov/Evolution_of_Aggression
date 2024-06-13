@@ -405,3 +405,41 @@ Instead of wasting all their energy and dying, two Hawks would end up going home
 </p>
 
 Hawks grew significantly stronger.
+
+## 2 Hawks get at least something (large scale)
+
+New table: 
+
+|       | Dove | Hawk |
+|-------|------|------|
+| Dove |  1  | 1/2  |
+| Hawk | 3/2  |  **1/2**  |
+
+Instead of wasting all their energy and dying, two Hawks would end up going home with 1/2 of the food each.
+Large scale.
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example12/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example12/population_simulation_graph.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example12/population_simulation_plots.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example12/population_simulation_hist.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example12/population_simulation_pie.png" alt="Image" style="display:block; margin:auto; width:400px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example12/population_simulation_pies.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+The results are very stable
