@@ -75,7 +75,7 @@ Conversely, in environments where Doves outnumber Hawks, transitioning to a Hawk
 </p>
 
 <p align="center">
-  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example1/population_simulation_pie.png" alt="Image" style="display:block; margin:auto; width:100px;"/>
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example1/population_simulation_pie.png" alt="Image" style="display:block; margin:auto; width:400px;"/>
 </p>
 
 <p align="center">
