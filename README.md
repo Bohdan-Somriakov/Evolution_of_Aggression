@@ -44,8 +44,8 @@ The following table outlines how much food each creature will receive after an e
 
 |       | Dove | Hawk |
 |-------|------|------|
-| Dove |  1  | 1/2  |
-| Hawk | 3/2  |  0  |
+| **Dove** |  1  | 1/2  |
+| **Hawk** | 3/2  |  0  |
 
 - **Dove vs. Dove**: Both doves share the food equally, each receiving 1 point.
 - **Dove vs. Hawk**: The hawk receive 1 point and steals 1/2 point, leaving the dove with 1/2 point.
@@ -379,8 +379,8 @@ New table:
 
 |       | Dove | Hawk |
 |-------|------|------|
-| Dove |  1  | 1/2  |
-| Hawk | 3/2  |  **1/2**  |
+| **Dove** |  1  | 1/2  |
+| **Hawk** | 3/2  |  **1/2**  |
 
 Instead of wasting all their energy and dying, two Hawks would end up going home with 1/2 of the food each.
 
@@ -416,8 +416,8 @@ New table:
 
 |       | Dove | Hawk |
 |-------|------|------|
-| Dove |  1  | 1/2  |
-| Hawk | 3/2  |  **1/2**  |
+| **Dove** |  1  | 1/2  |
+| **Hawk** | 3/2  |  **1/2**  |
 
 Instead of wasting all their energy and dying, two Hawks would end up going home with 1/2 of the food each.
 Large scale.
