@@ -86,7 +86,7 @@ Both strategies demonstrate survival, indicating their effectiveness in differen
 
 ## Doves only
 
-In doves only scenerio Doves do not have any predators
+In doves only scenerio Doves do not have any competitors
 
 <p align="center">
   <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example2/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
@@ -113,6 +113,36 @@ In doves only scenerio Doves do not have any predators
 </p>
 
 In this observation, the life of Doves appears significantly better compared to the coexistence of Doves and Hawks. The absence of aggression among Hawks contributed to a more peaceful environment for Doves
+
+## Hawks only
+
+In hawks only scenerio Hawks do not have any competitors
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example3/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example3/population_simulation_graph.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example3/population_simulation_plots.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example3/population_simulation_hist.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example3/population_simulation_pie.png" alt="Image" style="display:block; margin:auto; width:400px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example3/population_simulation_pies.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+Hawks resorted to slaughtering each other as soon as they ate all free food supply, highlighting their inability to survive without the presence of Doves.
 
 # Credit
 Inspired by https://www.youtube.com/watch?v=YNMkADpvO4w
