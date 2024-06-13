@@ -237,6 +237,10 @@ The same experiment conducted on a larger scale.
 
 The results are very stable.
 
+## Small scale hawk problem
+
+Only 10 food pairs.
+
 <p align="center">
   <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example7/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
 </p>
@@ -262,6 +266,3 @@ The results are very stable.
 </p>
 
 Scarcity of food leads to a decrease in the overall population of creatures. With a small number of Hawks, the probability of their encounters increases significantly. In an unfortunate turn of events, all Hawks ended up meeting and ultimately eliminating each other, leaving only Doves remaining. The higher the number of iterations, the greater the likelihood of such an outcome.
-
-## Small scale hawk problem
-
