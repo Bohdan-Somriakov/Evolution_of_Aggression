@@ -51,7 +51,6 @@ class SimulationData:
     def make_pie_chart(self):
         fig, ax = plt.subplots()
         sizes = list()
-        print(self.dove_count_history)
         sizes.append(self.dove_count_history[-1])
         sizes.append(self.hawk_count_history[-1])
         labels = list()
@@ -60,7 +59,7 @@ class SimulationData:
         colors = list()
         colors.append(Color.blue.value)
         colors.append(Color.red.value)
-        if self.dove_count_history[-1] != 0 and self.hawk_count_history[-1] != 0:
+        if ((self.dove_count_history[-1] != 0 and self.hawk_count_history[-1] != 0) or (self.dove_count_history[-1] != 0 and self.hawk_count_history[-1] == 0)):
             ax.pie(sizes, labels=labels, colors=colors)
             ax.set_title("On last iteration")
             fig.savefig("results/population_simulation_pie.png")
@@ -105,7 +104,7 @@ class SimulationData:
         colors.append(Color.red.value)
         sizes = list()
         for i in range(parts):
-            if divided_num_dove[i] != 0 and divided_num_hawk[i] != 0:
+            if (divided_num_dove[i] != 0 and divided_num_hawk[i] != 0) or (divided_num_dove[i] != 0 and divided_num_hawk[i] == 0):
                 sizes.append(divided_num_dove[i])
                 sizes.append(divided_num_hawk[i])
                 plt.subplot(2, 4, i + 1)
