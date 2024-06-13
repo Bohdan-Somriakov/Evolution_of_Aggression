@@ -49,8 +49,5 @@ The number of doves and hawks that will be present at the beginning of the simul
 The number of iterations during which creatures will meet and interact with one another.
 
 # Credit
-Inspired by 
+Inspired by https://www.youtube.com/watch?v=YNMkADpvO4w
 
-<div align="center">
-  [![YouTube Video](https://img.youtube.com/vi/YNMkADpvO4w/0.jpg)](https://www.youtube.com/watch?v=YNMkADpvO4w)
-</div>
