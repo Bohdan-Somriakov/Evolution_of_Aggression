@@ -37,8 +37,8 @@ The following table outlines how much food each creature will receive after an e
 
 |       | Dove | Hawk |
 |-------|------|------|
-| **Dove** |  1  | 1/2  |
-| **Hawk** | 3/2  |  0  |
+| Dove |  1  | 1/2  |
+| Hawk | 3/2  |  0  |
 
 - **Dove vs. Dove**: Both doves share the food equally, each receiving 1 point.
 - **Dove vs. Hawk**: The hawk receive 1 point and steals 1/2 point, leaving the dove with 1/2 point.
@@ -296,3 +296,39 @@ Only 5 food pairs.
 </p>
 
 Scarcity of food leads to a decrease in the overall population of creatures. With a small number of Doves, the probability of their encounters with Hawks increases significantly. In an unfortunate turn of events, all Hawks ended up meeting and ultimately eliminating all Doves, leaving only Hawks remaining. Subsequently, the Hawks turned on each other, resulting in further slaughter within their own ranks. The higher the number of iterations, the greater the likelihood of such an outcome.
+
+## Hawks coop with each other
+
+New table: 
+
+|       | Dove | Hawk |
+|-------|------|------|
+| Dove |  1  | 1/2  |
+| Hawk | 3/2  |  *1*  |
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example9/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example9/population_simulation_graph.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example9/population_simulation_plots.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example9/population_simulation_hist.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example9/population_simulation_pie.png" alt="Image" style="display:block; margin:auto; width:400px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example9/population_simulation_pies.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+Hawks shared food among themselves but engaged in fierce competition with Doves for the remaining food, ultimately leading to the Hawks eliminating all the Doves.
+
