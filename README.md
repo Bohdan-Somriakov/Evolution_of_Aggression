@@ -462,6 +462,24 @@ Different rules and strategies have a profound impact on the outcomes for specie
 |------------|------------|------------|
 | ![Example 10](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example10/population_simulation_graph.png) | ![Example 11](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example11/population_simulation_graph.png) | ![Example 12](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example12/population_simulation_graph.png) |
 
+## Hists
+
+| Example 1 | Example 2 | Example 3 |
+|-----------|-----------|-----------|
+| ![Example 1](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example1/population_simulation_hist.png) | ![Example 2](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example2/population_simulation_hist.png) | ![Example 3](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example3/population_simulation_hist.png) |
+
+| Example 4 | Example 5 | Example 6 |
+|-----------|-----------|-----------|
+| ![Example 4](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example4/population_simulation_hist.png) | ![Example 5](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example5/population_simulation_hist.png) | ![Example 6](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example6/population_simulation_hist.png) |
+
+| Example 7 | Example 8 | Example 9 |
+|-----------|-----------|-----------|
+| ![Example 7](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example7/population_simulation_hist.png) | ![Example 8](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example8/population_simulation_hist.png) | ![Example 9](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example9/population_simulation_hist.png) |
+
+| Example 10 | Example 11 | Example 12 |
+|------------|------------|------------|
+| ![Example 10](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example10/population_simulation_hist.png) | ![Example 11](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example11/population_simulation_hist.png) | ![Example 12](https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example12/population_simulation_hist.png) |
+
 
 ## Pies
 
