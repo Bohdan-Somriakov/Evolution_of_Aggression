@@ -50,8 +50,6 @@ The number of iterations during which creatures will meet and interact with one 
 
 # Results
 
-![test](![test](https://raw.githubusercontent.com/Bohdan-Somriakov/repository/images/example.png))
-
 # Credit
 Inspired by https://www.youtube.com/watch?v=YNMkADpvO4w
 
