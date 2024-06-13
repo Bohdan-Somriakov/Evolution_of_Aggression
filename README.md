@@ -82,11 +82,11 @@ Conversely, in environments where Doves outnumber Hawks, transitioning to a Hawk
   <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example1/population_simulation_pies.png" alt="Image" style="display:block; margin:auto;"/>
 </p>
 
-Both strategies demonstrate survival, indicating their effectiveness in different scenarios
+Both strategies demonstrate survival, indicating their effectiveness in different scenarios.
 
 ## Doves only
 
-In doves only scenerio Doves do not have any competitors
+In doves only scenerio Doves do not have any competitors.
 
 <p align="center">
   <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example2/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
@@ -112,11 +112,11 @@ In doves only scenerio Doves do not have any competitors
   <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example2/population_simulation_pies.png" alt="Image" style="display:block; margin:auto;"/>
 </p>
 
-In this observation, the life of Doves appears significantly better compared to the coexistence of Doves and Hawks. The absence of aggression among Hawks contributed to a more peaceful environment for Doves
+In this observation, the life of Doves appears significantly better compared to the coexistence of Doves and Hawks. The absence of aggression among Hawks contributed to a more peaceful environment for Doves.
 
 ## Hawks only
 
-In hawks only scenerio Hawks do not have any competitors
+In hawks only scenerio Hawks do not have any competitors.
 
 <p align="center">
   <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example3/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
@@ -143,6 +143,36 @@ In hawks only scenerio Hawks do not have any competitors
 </p>
 
 Hawks resorted to slaughtering each other as soon as they ate all free food supply, highlighting their inability to survive without the presence of Doves.
+
+## Dove among Hawks 
+
+1 Dove surrounded by Hawks.
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example4/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example4/population_simulation_graph.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example4/population_simulation_plots.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example4/population_simulation_hist.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example4/population_simulation_pie.png" alt="Image" style="display:block; margin:auto; width:400px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example4/population_simulation_pies.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+Hawks immediately resorted to slaughtering each other, while Doves seized this opportunity to reproduce and ensure their survival.
 
 # Credit
 Inspired by https://www.youtube.com/watch?v=YNMkADpvO4w
