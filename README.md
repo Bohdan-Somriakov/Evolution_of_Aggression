@@ -174,6 +174,36 @@ Hawks resorted to slaughtering each other as soon as they ate all free food supp
 
 Hawks immediately resorted to slaughtering each other, while Doves seized this opportunity to reproduce and ensure their survival.
 
+## Hawk among Doves 
+
+1 Hawk surrounded by Doves.
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example5/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example5/population_simulation_graph.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example5/population_simulation_plots.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example5/population_simulation_hist.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example5/population_simulation_pie.png" alt="Image" style="display:block; margin:auto; width:400px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example5/population_simulation_pies.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+The overall habitat flourished initially. However, with Hawks reproducing and subsequently decreasing the average population by approximately 30% due to their aggressive tendencies, the ecosystem faced a decline.
+
 # Credit
 Inspired by https://www.youtube.com/watch?v=YNMkADpvO4w
 
