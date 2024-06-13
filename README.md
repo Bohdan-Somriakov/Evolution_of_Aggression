@@ -82,6 +82,38 @@ Conversely, in environments where Doves outnumber Hawks, transitioning to a Hawk
   <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example1/population_simulation_pies.png" alt="Image" style="display:block; margin:auto;"/>
 </p>
 
+Both strategies demonstrate survival, indicating their effectiveness in different scenarios
+
+## Doves only
+
+In doves only scenerio Doves do not have any predators
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example2/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example2/population_simulation_graph.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example2/population_simulation_plots.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example2/population_simulation_hist.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example2/population_simulation_pie.png" alt="Image" style="display:block; margin:auto; width:400px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example2/population_simulation_pies.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+In this observation, the life of Doves appears significantly better compared to the coexistence of Doves and Hawks. The absence of aggression among Hawks contributed to a more peaceful environment for Doves
+
 # Credit
 Inspired by https://www.youtube.com/watch?v=YNMkADpvO4w
 
