@@ -236,3 +236,32 @@ The same experiment conducted on a larger scale.
 </p>
 
 The results are very stable.
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example7/data.png" alt="Image" style="display:block; margin:auto; width:300px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example7/population_simulation_graph.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example7/population_simulation_plots.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example7/population_simulation_hist.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example7/population_simulation_pie.png" alt="Image" style="display:block; margin:auto; width:400px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Bohdan-Somriakov/Evolution_of_Aggression/blob/main/examples/example7/population_simulation_pies.png" alt="Image" style="display:block; margin:auto;"/>
+</p>
+
+Scarcity of food leads to a decrease in the overall population of creatures. With a small number of Hawks, the probability of their encounters increases significantly. In an unfortunate turn of events, all Hawks ended up meeting and ultimately eliminating each other, leaving only Doves remaining. The higher the number of iterations, the greater the likelihood of such an outcome.
+
+## Small scale hawk problem
+
