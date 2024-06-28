@@ -1,5 +1,3 @@
-import logging
-
 from Enums.Choice import Choice
 import random
 

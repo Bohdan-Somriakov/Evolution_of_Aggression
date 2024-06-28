@@ -43,6 +43,9 @@ class App:
         self.hawk1_lbl = tk.Label(text="Hawk", font=self.font, fg=Color.red.value)
         self.hawk2_lbl = tk.Label(text="Hawk", font=self.font, fg=Color.red.value)
 
+        self.rules_creatures_btn = tk.Button(self.root, text=self.btn_txt,
+                                              font=self.font, command=self.rules_creatures_get_entries)
+
     def init_initial_counts_widgets(self):
         self.initial_dove_count_lbl = tk.Label(text="Initial dove count:", font=self.font, fg=Color.blue.value)
         self.initial_hawk_count_lbl = tk.Label(text="Initial hawk count:", font=self.font, fg=Color.red.value)
@@ -82,6 +85,8 @@ class App:
         self.dove_hawk_entry.grid(row=3, column=2)
         self.hawk_dove_entry.grid(row=4, column=1)
         self.hawk_hawk_entry.grid(row=4, column=2)
+
+        self.rules_creatures_btn.grid(row=5, column=1)
 
     def place_initial_counts_widgets(self):
         self.initial_dove_count_lbl.grid(row=6, column=0)
