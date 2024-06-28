@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+from pathlib import Path
 from Enums.Color import Color
 from Enums.Creature import Creature
 
@@ -14,11 +14,18 @@ class SimulationData:
         self.creatures_history = []
 
     def visualise_counts(self):
+        self.make_dir()
         self.make_plot()
         self.make_hist()
         self.make_pie_chart()
         self.make_plots()
         self.make_pies()
+
+    @staticmethod
+    def make_dir():
+        results_dir = Path("results")
+        if not results_dir.exists():
+            results_dir.mkdir(parents=True, exist_ok=True)
 
     def make_plot(self):
         plt.plot(self.hawk_count_history, color=Color.red.value, label="Hawks")
